@@ -8,6 +8,8 @@ See the Wiki for instructions:
 https://github.com/dev-coco/Image-Compression/wiki
 # Effect
 Before
-<img src="http://dev-coco.github.io/images/Image-Compression-wiki/3.png" width="1000">
+<img src="http://dev-coco.github.io/images/Image-Compression-wiki/3.png" width="640">
+
 After
-<img src="http://dev-coco.github.io/images/Image-Compression-wiki/4.png" width="1000">
+<img src="http://dev-coco.github.io/images/Image-Compression-wiki/4.png" width="640">
+
