@@ -2,6 +2,9 @@
 Mac automatically compress pictures through hotkeys. It only takes a second.
 
 [Home page](https://dev-coco.github.io/)
+# Feedback
+[Feedback](https://forms.gle/Jjz5iPqceSjbpvcQ6)
+
 # Instructions
 See the Wiki for instructions:
 
