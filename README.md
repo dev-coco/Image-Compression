@@ -5,7 +5,9 @@ Mac automatically compress pictures through hotkeys. It only takes a second.
 # Instructions
 See the Wiki for instructions:
 
-https://github.com/dev-coco/Image-Compression/wiki
+English: https://github.com/dev-coco/Image-Compression/wiki
+
+Chinese: https://dev-coco.github.io/blog/Image-Compression.html
 # Effect
 Before
 
