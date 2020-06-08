@@ -7,7 +7,7 @@ See the Wiki for instructions:
 
 English: https://github.com/dev-coco/Image-Compression/wiki
 
-[Mac图片压缩]https://dev-coco.github.io/blog/Image-Compression.html
+[Mac图片压缩](https://dev-coco.github.io/blog/Image-Compression.html)
 # 效果
 Before
 
